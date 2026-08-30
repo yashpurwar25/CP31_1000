@@ -33,3 +33,5 @@ int main()
     }
 }
  
+// or can precompute the xor till 50 not in the while loop which is the test case loop 
+// xor[i]=xor[i-1]^i
